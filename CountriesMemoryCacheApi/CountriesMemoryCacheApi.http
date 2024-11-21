@@ -1,0 +1,6 @@
+@CountriesMemoryCacheApi_HostAddress = http://localhost:5182
+
+GET {{CountriesMemoryCacheApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

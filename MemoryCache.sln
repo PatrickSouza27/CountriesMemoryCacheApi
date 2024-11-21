@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryCacheProject", "MemoryCacheProject\MemoryCacheProject.csproj", "{A33468E7-61AA-4281-A605-2E7AFD67AB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountriesMemoryCacheApi", "CountriesMemoryCacheApi\CountriesMemoryCacheApi.csproj", "{22DAC5A6-F0E7-44EA-849F-D053DFA18739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A33468E7-61AA-4281-A605-2E7AFD67AB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33468E7-61AA-4281-A605-2E7AFD67AB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33468E7-61AA-4281-A605-2E7AFD67AB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33468E7-61AA-4281-A605-2E7AFD67AB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DAC5A6-F0E7-44EA-849F-D053DFA18739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DAC5A6-F0E7-44EA-849F-D053DFA18739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DAC5A6-F0E7-44EA-849F-D053DFA18739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DAC5A6-F0E7-44EA-849F-D053DFA18739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
